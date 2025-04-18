@@ -1,8 +1,3 @@
-//TP1 - REDES DE COMPUTADORES - 2023/2
-//NOME: GUSTAVO PEDRO FELICIANO
-//MATRÍCULA: 2020092330
-
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
